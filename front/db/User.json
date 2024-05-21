@@ -1,0 +1,77 @@
+{
+    "users":[
+        {
+            "id": "53bcea90-4052-40d4-a19d-fa6d1701cb82",
+            "username": "zade",
+            "lists": [
+                {
+                    "id": "45047158",
+                    "title": "List 1",
+                    "color": "red",
+                    "tasks": [
+                        {
+                            "id": "221e7b33-fc70-4f5e-8ab6-47859c1232b2",
+                            "title": "Task 1",
+                            "description": "Description 1",
+                            "dueDate": "2022-06-17",
+                            "status": "To do",
+                            "priority" : "Low"
+                        },
+                        {
+                            "id": "4e103f84-82df-4566-b7f4-3f7856281d6b",
+                            "title": "Task 2",
+                            "description": "Description 2",
+                            "dueDate": "2024-05-23",
+                            "status": "To do",
+                            "priority" : "Medium"
+                        },
+                        {
+                            "id": "9d5d5d6e-9b7e-4a9f-8b6a-9c8b6a9c8b6a",
+                            "title": "Task 3",
+                            "description": "Description 3",
+                            "dueDate": "2024-07-01",
+                            "status": "To do",
+                            "priority" : "High"
+                        }
+                    ]
+                },
+                {
+                    "id": "14200524",
+                    "title": "Family List",
+                    "color": "blue",
+                    "tasks": [
+                        {
+                            "id": "221e7b33-fc70-4f5e-8ab6-47859c1232b2",
+                            "title": "Feed the cows",
+                            "description": "Help my grandma feed the cows",
+                            "dueDate": "2022-09-13",
+                            "status": "To do",
+                            "priority" : "Low"
+                        }
+                    ]
+                },
+                {
+                    "id": "61251207",
+                    "title": "List 3",
+                    "color": "green",
+                    "tasks": []
+                },
+                {
+                    "id": "75698789",
+                    "title": "Work",
+                    "color": "yellow",
+                    "tasks": [
+                        {
+                            "id": "221e7b33-fc70-4f5e-8ab6-47859c1232b2",
+                            "title": "Finish coding assignment",
+                            "description": "Finish coding assignment",
+                            "dueDate": "2024-09-13",
+                            "status": "In progress",
+                            "priority" : "Medium"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
